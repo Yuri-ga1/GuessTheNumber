@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guess The Number</string>
+    <string name="fromTextView">From:</string>
+    <string name="toTextView">To:</string>
+    <string name="startBtnText">Start</string>
+    <string name="yesBtn">Yes</string>
+    <string name="noBtn">No</string>
+</resources>
